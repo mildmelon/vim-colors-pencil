@@ -42,7 +42,7 @@ if ! exists("g:pencil_higher_contrast_ui")
 endif
 
 if ! exists("g:pencil_neutral_code_bg")
-  let g:pencil_neutral_code_bg = 0
+  let g:pencil_neutral_code_bg = 1
 endif
 
 if ! exists("g:pencil_neutral_headings")
